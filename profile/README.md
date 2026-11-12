@@ -9,7 +9,7 @@ We build fun, lightweight web projects fueled by our love for clean code and gre
 
 ### 📂 Our Projects
 - **[TheGeekIceCream.github.io](https://thegeekicecream.github.io)** — Our official website.
-- **beta** *(https://thegeekicecream.github.io/beta)* — YouAreAnIdiot - Safe in 2013 by Andrew Regner.
+- **beta** *(https://thegeekicecream.github.io/beta)* — Safe projects like the Chrome dinosaur game, and the "YouAreAnIdiot" (from 2013 by Andrew Regner), and many more.
 - **youareanidiot** *(https://thegeekicecream.github.io/youareanidiot)* — A fun web recreation of the classic internet meme called You Are An Idiot.
 
 ### 📫 Get in Touch
