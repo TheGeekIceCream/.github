@@ -5,10 +5,11 @@
 We are a collaborative group of developers, creators, and tech enthusiasts building cool web projects—fueled by a shared passion for clean code and great ice cream.
 
 ### 🛠️ Our Tech Stack
-![HTML5](https://shields.io)
-![JavaScript](https://shields.io)
-![CSS3](https://shields.io)
-![GitHub Pages](https://shields.io)
+- 🧱 **HTML5**
+- ⚡ **JavaScript**
+- 🎨 **CSS3**
+- 🚀 **GitHub Pages**
+
 
 ### 🚀 What We Do
 - 🌐 **Web Development:** Creating lightweight, interactive web apps using HTML, JavaScript, and CSS.
